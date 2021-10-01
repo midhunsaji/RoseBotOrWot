@@ -204,5 +204,5 @@ The `__stats__()` function is for retrieving module statistics, eg number of use
 through the `/stats` command, which is only available to the bot owner.
 
 # Credits
-https://github.com/jithumon/tgbot/graphs/contributors
+https://github.com/midhunsaji/RoseBotOrWot
 
