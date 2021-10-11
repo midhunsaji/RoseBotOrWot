@@ -145,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="⭕️ Share Group ⭕️", url="https://t.me/share/url?url=https://t.me/joinchat/RkEHxe5doSNM9B9N".format(bot.username))],
-                     [InlineKeyboardButton(text="📯 Channel 📯", url="t.me/MoviePlayr"), InlineKeyboardButton(text="❌ Owner ❌", url="https://t.me/Curio_VolvEX"), InlineKeyboardButton(text="Source", url="https://t.me/ok_bie_1223/13")],
+                     [InlineKeyboardButton(text="📯 Channel 📯", url="t.me/MoviePlayr"), InlineKeyboardButton(text="❌ Owner ❌", url="https://t.me/Mr_Lucifer_ll"), InlineKeyboardButton(text="Source", url="https://t.me/ok_bie_1223/17")],
                      [InlineKeyboardButton(text="➕ You Can't Add me to your group ➕", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
